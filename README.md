@@ -11,14 +11,6 @@ A sleek and dynamic movie search application built with React that helps users d
 
 ---
 
-## 📸 Demo
-
-![Movie App Demo](https://your-demo-link-or-gif-here.gif)
-
-> _Replace the above link with a demo video or GIF if available._
-
----
-
 ## ✨ Features
 
 - 🔍 **Search any movie** with instant suggestions (debounced search)
@@ -165,7 +157,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 **Tushansh Bajaj**
 
-- [Portfolio](https://tushanshbajaj.netlify.app/)
+- [Portfolio](https://tushansh.netlify.app/)
 - [GitHub](https://github.com/Tushansh)
 - [LinkedIn](https://www.linkedin.com/in/tushansh-bajaj-393169309)
 
