@@ -1,12 +1,36 @@
-# React + Vite
+# 🎬 Movie Finder App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![React](https://img.shields.io/badge/Built%20With-React-blue.svg)
+![API](https://img.shields.io/badge/API-TMDB-informational)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
-Currently, two official plugins are available:
+A sleek and dynamic movie search application built with React that helps users discover trending and popular movies instantly using **The Movie Database (TMDb)** API.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+> “Find movies you'll enjoy without the hassle.” — Your new favorite movie app.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features
+
+- 🔍 **Search any movie** with instant suggestions (debounced search)
+- 🎞️ **Trending movies** section powered by TMDb API
+- ⚡ **Fast and responsive** UI using functional components
+- ⏳ **Loading spinner** for better user experience
+- 📈 **Search analytics** integration with Appwrite (via `updateSearchCount`)
+- 🧠 Smart API error handling and feedback
+
+---
+
+## 🛠️ Tech Stack
+
+- **React.js**
+- **TMDb API**
+- **Appwrite (Backend for tracking search count)**
+- **Custom Hooks (react-use's `useDebounce`)**
+- **TailwindCSS / Custom CSS (assumed for styling)**
+
+---
+
+## 🧩 Project Structure
+
