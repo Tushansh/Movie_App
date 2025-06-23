@@ -6,6 +6,7 @@
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 A sleek and dynamic movie search application built with React that helps users discover trending and popular movies instantly using **The Movie Database (TMDb)** API.
+Check Out The Live Website: Moviesongo(https://moviesongo.netlify.app/)
 
 > “Find movies you'll enjoy without the hassle.” — Your new favorite movie app.
 
